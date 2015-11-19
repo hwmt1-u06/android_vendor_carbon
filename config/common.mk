@@ -105,6 +105,10 @@ PRODUCT_PACKAGES += \
     ROMStats \
     Wallpapers
 
+# Apollo
+PRODUCT_PACKAGES += \
+    Apollo
+
 # DSPManager
 PRODUCT_PACKAGES += \
     DSPManager \
